@@ -1,5 +1,8 @@
 # January 20
 
+## 議事録
+[https://docs.google.com/a/cps.im.dendai.ac.jp/document/d/1ZUEvrwrAOoST4mhI5B8bjWySVpRkS1woTbBhBnCgSDg/edit?usp=sharing](https://docs.google.com/a/cps.im.dendai.ac.jp/document/d/1ZUEvrwrAOoST4mhI5B8bjWySVpRkS1woTbBhBnCgSDg/edit?usp=sharing)
+
 ## 共有事項
 
 <iframe src="https://drive.google.com/file/d/0BxlyPYt1ZlylYjE4c2V2cW1mMkU/preview" width="960" height="540"></iframe>
